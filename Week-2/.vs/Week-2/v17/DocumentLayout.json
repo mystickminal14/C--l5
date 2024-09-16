@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Week-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\londontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\londontime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\localtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\localtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\hongkongtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\hongkongtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\tokyotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\tokyotime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\newyorktime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\newyorktime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|c:\\users\\user\\source\\repos\\week-2\\week-2\\volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA4EBBC-764F-4A30-AE53-9D9917BF6CB1}|Week-2\\Week-2.csproj|solutionrelative:week-2\\volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HongkongTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\HongkongTime.cs",
+              "RelativeDocumentMoniker": "Week-2\\HongkongTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\HongkongTime.cs",
+              "RelativeToolTip": "Week-2\\HongkongTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:43:32.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokyoTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\TokyoTime.cs",
+              "RelativeDocumentMoniker": "Week-2\\TokyoTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\TokyoTime.cs",
+              "RelativeToolTip": "Week-2\\TokyoTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:43:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewYorkTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\NewYorkTime.cs",
+              "RelativeDocumentMoniker": "Week-2\\NewYorkTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\NewYorkTime.cs",
+              "RelativeToolTip": "Week-2\\NewYorkTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:41:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LondonTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\LondonTime.cs",
+              "RelativeDocumentMoniker": "Week-2\\LondonTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\LondonTime.cs",
+              "RelativeToolTip": "Week-2\\LondonTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:40:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "localTime.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\localTime.cs",
+              "RelativeDocumentMoniker": "Week-2\\localTime.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\localTime.cs",
+              "RelativeToolTip": "Week-2\\localTime.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:36:43.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Week-2\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\Fibonacci.cs",
+              "RelativeToolTip": "Week-2\\Fibonacci.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:20:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Volume.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\Volume.cs",
+              "RelativeDocumentMoniker": "Week-2\\Volume.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\Volume.cs",
+              "RelativeToolTip": "Week-2\\Volume.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:08:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\Program.cs",
+              "RelativeDocumentMoniker": "Week-2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Week-2\\Week-2\\Program.cs",
+              "RelativeToolTip": "Week-2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:07:12.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

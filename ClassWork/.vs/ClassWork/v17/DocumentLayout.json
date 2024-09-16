@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ClassWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|c:\\users\\user\\source\\repos\\classwork\\classwork\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|solutionrelative:classwork\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|c:\\users\\user\\source\\repos\\classwork\\classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|solutionrelative:classwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|c:\\users\\user\\source\\repos\\classwork\\classwork\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|solutionrelative:classwork\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|c:\\users\\user\\source\\repos\\classwork\\classwork\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|solutionrelative:classwork\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|c:\\users\\user\\source\\repos\\classwork\\classwork\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|solutionrelative:classwork\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|c:\\users\\user\\source\\repos\\classwork\\classwork\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F808C40-E465-43B5-AF71-9FBCE7DF5020}|ClassWork\\ClassWork.csproj|solutionrelative:classwork\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program6.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program6.cs",
+              "RelativeDocumentMoniker": "ClassWork\\Program6.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program6.cs",
+              "RelativeToolTip": "ClassWork\\Program6.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:03:31.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program5.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program5.cs",
+              "RelativeDocumentMoniker": "ClassWork\\Program5.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program5.cs",
+              "RelativeToolTip": "ClassWork\\Program5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:00:53.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program4.cs",
+              "RelativeDocumentMoniker": "ClassWork\\Program4.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program4.cs",
+              "RelativeToolTip": "ClassWork\\Program4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:56:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program3.cs",
+              "RelativeDocumentMoniker": "ClassWork\\Program3.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program3.cs",
+              "RelativeToolTip": "ClassWork\\Program3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:51:29.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program2.cs",
+              "RelativeDocumentMoniker": "ClassWork\\Program2.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program2.cs",
+              "RelativeToolTip": "ClassWork\\Program2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:02:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program.cs",
+              "RelativeDocumentMoniker": "ClassWork\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ClassWork\\ClassWork\\Program.cs",
+              "RelativeToolTip": "ClassWork\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:30:04.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
