@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PratikLift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\liftmovedown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\liftmovedown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\ilift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\ilift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\dooropeng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\dooropeng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\dooropen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\dooropen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\closedoorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\closedoorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\closedoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\closedoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|c:\\users\\user\\source\\repos\\pratiklift\\pratiklift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\liftmoveup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\liftmoveup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|C:\\Users\\user\\source\\repos\\PratikLift\\pratiklift\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C4CD2-BD7C-41CE-AD7C-8F1B730EB776}|PratikLift\\PratikLift.csproj|solutionrelative:pratiklift\\lift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Storage.cs",
+              "RelativeDocumentMoniker": "PratikLift\\Storage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Storage.cs",
+              "RelativeToolTip": "PratikLift\\Storage.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:00:52.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PratikLift\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Form1.Designer.cs",
+              "RelativeToolTip": "PratikLift\\Form1.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwP0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:55:02.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LiftMoveDOWN.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\LiftMoveDOWN.cs",
+              "RelativeDocumentMoniker": "PratikLift\\LiftMoveDOWN.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\LiftMoveDOWN.cs",
+              "RelativeToolTip": "PratikLift\\LiftMoveDOWN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:52:36.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LiftMoveUP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\LiftMoveUP.cs",
+              "RelativeDocumentMoniker": "PratikLift\\LiftMoveUP.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\LiftMoveUP.cs",
+              "RelativeToolTip": "PratikLift\\LiftMoveUP.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:51:35.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Form1.cs",
+              "RelativeDocumentMoniker": "PratikLift\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Form1.cs",
+              "RelativeToolTip": "PratikLift\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:44:35.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloseDoorG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\CloseDoorG.cs",
+              "RelativeDocumentMoniker": "PratikLift\\CloseDoorG.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\CloseDoorG.cs",
+              "RelativeToolTip": "PratikLift\\CloseDoorG.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:40:29.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CloseDoor1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\CloseDoor1.cs",
+              "RelativeDocumentMoniker": "PratikLift\\CloseDoor1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\CloseDoor1.cs",
+              "RelativeToolTip": "PratikLift\\CloseDoor1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:39:39.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorOpenG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\DoorOpenG.cs",
+              "RelativeDocumentMoniker": "PratikLift\\DoorOpenG.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\DoorOpenG.cs",
+              "RelativeToolTip": "PratikLift\\DoorOpenG.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:38:46.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoorOpen1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\DoorOpen1.cs",
+              "RelativeDocumentMoniker": "PratikLift\\DoorOpen1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\DoorOpen1.cs",
+              "RelativeToolTip": "PratikLift\\DoorOpen1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:37:28.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Idle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Idle.cs",
+              "RelativeDocumentMoniker": "PratikLift\\Idle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Idle.cs",
+              "RelativeToolTip": "PratikLift\\Idle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:36:11.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILift.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\ILift.cs",
+              "RelativeDocumentMoniker": "PratikLift\\ILift.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\ILift.cs",
+              "RelativeToolTip": "PratikLift\\ILift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:35:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lift.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\lift.cs",
+              "RelativeDocumentMoniker": "PratikLift\\lift.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\lift.cs",
+              "RelativeToolTip": "PratikLift\\lift.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:34:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Form1.cs",
+              "RelativeDocumentMoniker": "PratikLift\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PratikLift\\PratikLift\\Form1.cs [Design]",
+              "RelativeToolTip": "PratikLift\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:19:09.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

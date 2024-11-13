@@ -2,6 +2,7 @@ namespace WinFormsApp5
 {
     public partial class Form1 : Form
     {
+        Class1 Class1;
         public Form1()
         {
             InitializeComponent();
@@ -44,25 +45,42 @@ namespace WinFormsApp5
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Class1=new Class1();
             string fullname = fbox.Text;
             string dob = dOb.Text;
             string age = agebox.Text;
             string username = userBox.Text;
+            int gender;
+            if (radioButton1.Checked == true)
+            {
+                gender = 1;
+            }
+            else
+            {
+                gender = 0;
+            }
             string pass = userBox.Text;
+            try
+            {
+                String query =@"Insert into dbo.users(")
+            }values();
+            catch
+            {
+
+            }
 
             if (fullname != "" && dob != "" && age != "" && username != "" && pass != "")
             {
                 MessageBoxButtons buttons = MessageBoxButtons.OK;
-                DialogResult result= MessageBox.Show($"Account Successfully registered!! " +
+                DialogResult result = MessageBox.Show($"Account Successfully registered!! " +
                     $"Fullname :{fullname}" +
                     $"Date of Birth: {dob}" +
                     $"Age :{age}" +
-                    $"Username :{username}","Login Successful",buttons);
-                
-              if (result == DialogResult.OK)
+                    $"Username :{username}", "Login Successful", buttons);
+
+                if (result == DialogResult.OK)
                 {
-                    Form2 log=new Form2();
+                    Form2 log = new Form2();
                     log.Show();
                 }
                 else
@@ -70,6 +88,16 @@ namespace WinFormsApp5
                     MessageBox.Show("close the box");
                 }
             }
+
+        }
+
+        private void label1_Click_5(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }

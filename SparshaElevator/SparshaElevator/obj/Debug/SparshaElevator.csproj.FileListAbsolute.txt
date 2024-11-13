@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.Form1.resources
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.Properties.Resources.resources
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\bin\Debug\SparshaElevator.exe.config
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\bin\Debug\SparshaElevator.exe
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\bin\Debug\SparshaElevator.pdb
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.exe
+C:\Users\user\source\repos\SparshaElevator\SparshaElevator\obj\Debug\SparshaElevator.pdb

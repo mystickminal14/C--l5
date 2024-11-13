@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SparshaElevator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatordb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatoropen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatoropen1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatoropeng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatoropeng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatorcloseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatorcloseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatorclose1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatorclose1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatordown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatordown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\elevatorup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\elevatorup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|c:\\users\\user\\source\\repos\\sparshaelevator\\sparshaelevator\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4656BDE7-F38D-4ADE-AAFD-50723F5CF6B1}|SparshaElevator\\SparshaElevator.csproj|solutionrelative:sparshaelevator\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElevatordB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatordB.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatordB.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatordB.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatordB.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:12:51.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElevatorClose1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorClose1.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatorClose1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorClose1.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatorClose1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:11:21.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevatorCloseG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorCloseG.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatorCloseG.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorCloseG.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatorCloseG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:34:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElevatorOpenG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorOpenG.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatorOpenG.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorOpenG.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatorOpenG.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:33:30.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElevatorOpen1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorOpen1.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatorOpen1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorOpen1.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatorOpen1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:32:57.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElevatorDown.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorDown.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatorDown.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorDown.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatorDown.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:32:35.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ElevatorUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorUp.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\ElevatorUp.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\ElevatorUp.cs",
+              "RelativeToolTip": "SparshaElevator\\ElevatorUp.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:32:25.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Idle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Idle.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\Idle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Idle.cs",
+              "RelativeToolTip": "SparshaElevator\\Idle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:32:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Elevator.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\Elevator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Elevator.cs",
+              "RelativeToolTip": "SparshaElevator\\Elevator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:32:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IElevator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\IElevator.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\IElevator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\IElevator.cs",
+              "RelativeToolTip": "SparshaElevator\\IElevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:31:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Form1.Designer.cs",
+              "RelativeToolTip": "SparshaElevator\\Form1.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwMEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:27:49.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Form1.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Form1.cs",
+              "RelativeToolTip": "SparshaElevator\\Form1.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:27:25.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Form1.cs",
+              "RelativeDocumentMoniker": "SparshaElevator\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SparshaElevator\\SparshaElevator\\Form1.cs [Design]",
+              "RelativeToolTip": "SparshaElevator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:23:13.015Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

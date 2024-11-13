@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.Form1.resources
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.Properties.Resources.resources
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PratikLift\PratikLift\bin\Debug\PratikLift.exe.config
+C:\Users\user\source\repos\PratikLift\PratikLift\bin\Debug\PratikLift.exe
+C:\Users\user\source\repos\PratikLift\PratikLift\bin\Debug\PratikLift.pdb
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.exe
+C:\Users\user\source\repos\PratikLift\PratikLift\obj\Debug\PratikLift.pdb

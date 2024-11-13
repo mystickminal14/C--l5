@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B63E3-1A42-4F3C-9D3D-407907ACECE3}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\user\\source\\repos\\elevatorsystem\\elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32B63E3-1A42-4F3C-9D3D-407907ACECE3}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B63E3-1A42-4F3C-9D3D-407907ACECE3}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\user\\source\\repos\\elevatorsystem\\elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C32B63E3-1A42-4F3C-9D3D-407907ACECE3}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B63E3-1A42-4F3C-9D3D-407907ACECE3}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\user\\source\\repos\\elevatorsystem\\elevatorsystem\\elevatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32B63E3-1A42-4F3C-9D3D-407907ACECE3}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\elevatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElevatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\ElevatorSystem\\ElevatorContext.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\ElevatorContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\ElevatorSystem\\ElevatorContext.cs*",
+              "RelativeToolTip": "ElevatorSystem\\ElevatorContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:02:14.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Elevator.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\Elevator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Elevator.cs*",
+              "RelativeToolTip": "ElevatorSystem\\Elevator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:01:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elevator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Elevator.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\Elevator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Elevator.cs [Design]*",
+              "RelativeToolTip": "ElevatorSystem\\Elevator.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:01:48.686Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

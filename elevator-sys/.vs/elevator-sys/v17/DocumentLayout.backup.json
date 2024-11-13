@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\elevator-sys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\elevatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\elevator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\liftopendoor0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\liftopendoor0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\liftopendoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\liftopendoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\liftclosedoor0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\liftclosedoor0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\liftclosedoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\liftclosedoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\liftmovingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\liftmovingdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\liftmovingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\liftmovingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|c:\\users\\user\\source\\repos\\elevator-sys\\elevator-sys\\ilift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9789C-50B8-4206-8C2B-5EA96B4DFA5C}|elevator-sys\\elevator-sys.csproj|solutionrelative:elevator-sys\\ilift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\database.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\database.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\database.cs",
+              "RelativeToolTip": "elevator-sys\\database.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:34:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "elevator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.Designer.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\elevator.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.Designer.cs",
+              "RelativeToolTip": "elevator-sys\\elevator.Designer.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAkwNsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:17:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LiftOpenDoor0.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftOpenDoor0.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\LiftOpenDoor0.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftOpenDoor0.cs",
+              "RelativeToolTip": "elevator-sys\\LiftOpenDoor0.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:12:38.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LiftOpenDoor1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftOpenDoor1.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\LiftOpenDoor1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftOpenDoor1.cs",
+              "RelativeToolTip": "elevator-sys\\LiftOpenDoor1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:11:45.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LiftCloseDoor0.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftCloseDoor0.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\LiftCloseDoor0.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftCloseDoor0.cs",
+              "RelativeToolTip": "elevator-sys\\LiftCloseDoor0.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:10:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LiftCloseDoor1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftCloseDoor1.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\LiftCloseDoor1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftCloseDoor1.cs",
+              "RelativeToolTip": "elevator-sys\\LiftCloseDoor1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:10:06.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LiftMovingDown.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftMovingDown.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\LiftMovingDown.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftMovingDown.cs",
+              "RelativeToolTip": "elevator-sys\\LiftMovingDown.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:09:22.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LiftMovingUp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftMovingUp.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\LiftMovingUp.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\LiftMovingUp.cs",
+              "RelativeToolTip": "elevator-sys\\LiftMovingUp.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:07:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Idle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\Idle.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\Idle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\Idle.cs",
+              "RelativeToolTip": "elevator-sys\\Idle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:07:02.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILift.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\ILift.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\ILift.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\ILift.cs",
+              "RelativeToolTip": "elevator-sys\\ILift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:06:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElevatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\ElevatorContext.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\ElevatorContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\ElevatorContext.cs",
+              "RelativeToolTip": "elevator-sys\\ElevatorContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:03:53.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "elevator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\elevator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.cs",
+              "RelativeToolTip": "elevator-sys\\elevator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwCUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:01:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "elevator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.cs",
+              "RelativeDocumentMoniker": "elevator-sys\\elevator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\elevator-sys\\elevator-sys\\elevator.cs [Design]",
+              "RelativeToolTip": "elevator-sys\\elevator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:53:27.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

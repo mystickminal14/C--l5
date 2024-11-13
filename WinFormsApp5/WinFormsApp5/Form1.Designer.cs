@@ -46,6 +46,9 @@
             pw = new Label();
             pass = new TextBox();
             button1 = new Button();
+            gender = new Label();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -89,11 +92,12 @@
             pictureBox1.BackgroundImageLayout = ImageLayout.Center;
             pictureBox1.BorderStyle = BorderStyle.Fixed3D;
             pictureBox1.Image = Properties.Resources.download;
-            pictureBox1.Location = new Point(-5, -2);
+            pictureBox1.Location = new Point(1, -5);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(426, 385);
             pictureBox1.TabIndex = 3;
             pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
             // 
             // fbox
             // 
@@ -148,7 +152,7 @@
             // 
             username.AutoSize = true;
             username.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            username.Location = new Point(427, 259);
+            username.Location = new Point(427, 289);
             username.Name = "username";
             username.Size = new Size(99, 28);
             username.TabIndex = 9;
@@ -158,7 +162,7 @@
             // userBox
             // 
             userBox.BorderStyle = BorderStyle.FixedSingle;
-            userBox.Location = new Point(546, 260);
+            userBox.Location = new Point(546, 289);
             userBox.Name = "userBox";
             userBox.PlaceholderText = "username";
             userBox.Size = new Size(208, 27);
@@ -169,7 +173,7 @@
             // 
             pw.AutoSize = true;
             pw.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            pw.Location = new Point(427, 303);
+            pw.Location = new Point(433, 337);
             pw.Name = "pw";
             pw.Size = new Size(93, 28);
             pw.TabIndex = 11;
@@ -179,7 +183,7 @@
             // pass
             // 
             pass.BorderStyle = BorderStyle.FixedSingle;
-            pass.Location = new Point(546, 308);
+            pass.Location = new Point(546, 337);
             pass.Name = "pass";
             pass.PlaceholderText = "Password";
             pass.Size = new Size(208, 27);
@@ -191,7 +195,7 @@
             button1.BackColor = SystemColors.Highlight;
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = Color.Snow;
-            button1.Location = new Point(427, 356);
+            button1.Location = new Point(427, 386);
             button1.Name = "button1";
             button1.Size = new Size(327, 43);
             button1.TabIndex = 13;
@@ -199,11 +203,48 @@
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
+            // gender
+            // 
+            gender.AutoSize = true;
+            gender.BackColor = SystemColors.ButtonFace;
+            gender.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            gender.Location = new Point(433, 249);
+            gender.Name = "gender";
+            gender.Size = new Size(76, 28);
+            gender.TabIndex = 14;
+            gender.Text = "Gender";
+            gender.Click += label1_Click_5;
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(546, 253);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(63, 24);
+            radioButton1.TabIndex = 15;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "Male";
+            radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(652, 253);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(78, 24);
+            radioButton2.TabIndex = 16;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "Female";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(radioButton2);
+            Controls.Add(radioButton1);
+            Controls.Add(gender);
             Controls.Add(button1);
             Controls.Add(pass);
             Controls.Add(pw);
@@ -242,5 +283,8 @@
         private Label pw;
         private TextBox pass;
         private Button button1;
+        private Label gender;
+        private RadioButton radioButton1;
+        private RadioButton radioButton2;
     }
 }

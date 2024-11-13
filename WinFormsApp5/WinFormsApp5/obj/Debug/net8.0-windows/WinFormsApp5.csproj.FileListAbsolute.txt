@@ -16,3 +16,4 @@ C:\Users\user\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\Wi
 C:\Users\user\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\ref\WinFormsApp5.dll
 C:\Users\user\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.Properties.Resources.resources
 C:\Users\user\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.Form2.resources
+C:\Users\user\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.sourcelink.json

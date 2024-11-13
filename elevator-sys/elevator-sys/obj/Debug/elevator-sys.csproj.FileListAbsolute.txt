@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator-sys.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator_sys.elevator.resources
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator_sys.Properties.Resources.resources
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator-sys.csproj.GenerateResource.cache
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator-sys.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\elevator-sys\elevator-sys\bin\Debug\elevator-sys.exe.config
+C:\Users\user\source\repos\elevator-sys\elevator-sys\bin\Debug\elevator-sys.exe
+C:\Users\user\source\repos\elevator-sys\elevator-sys\bin\Debug\elevator-sys.pdb
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator-sys.exe
+C:\Users\user\source\repos\elevator-sys\elevator-sys\obj\Debug\elevator-sys.pdb
